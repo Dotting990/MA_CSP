@@ -1,8 +1,8 @@
 # MA, Memory Diagram Activity
 name = "Malaki"
-print(f"The varable name has a value of {name} and is saved at {id(name)}")
+print(f"The variable name has a value of {name} and is saved at {id(name)}")
 age = 15
-print(f"The variable name has a value of {age} and is saved at {id(age)}")
+print(f"The variable age has a value of {age} and is saved at {id(age)}")
 score = 10
 print(f"The variable score has a value of {score} and is save at {id(score)}")
 score = 25
