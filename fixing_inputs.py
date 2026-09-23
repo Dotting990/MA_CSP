@@ -4,8 +4,7 @@ while True:
     if color.isnumeric():
         print("That is a number not a color!")
     elif " " in color:
-        print("i said one word.")
+        print("One word.")
     else:
-         break
-
+        break
 print(f"we painted the walls {color}!")
