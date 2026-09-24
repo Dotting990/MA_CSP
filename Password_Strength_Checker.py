@@ -8,3 +8,8 @@ symbol = False
 for letter in Password:
     if letter.isupper():
         uppercase = True
+else:
+    break
+for letter in password
+    if letter.islower():
+        lowercase = True
