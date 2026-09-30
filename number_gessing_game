@@ -1,0 +1,4 @@
+# MA, Number Guessing Game
+guesses = 1
+number = random(1,100)
+print(number)
