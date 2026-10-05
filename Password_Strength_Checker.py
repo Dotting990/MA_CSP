@@ -38,7 +38,7 @@ for letter in Password:
 print(f"Password has at least one number")
 
 for  letter in Password:
-    if letter in "@$?!:;()/-.,&[]{}#%^*+=_\|~<>":
+    if letter == "@$?!:;()/-.,&[]{}#%^*+=_\|~<>":
         symbol = True
 print(f"Password has a symbol")
 
